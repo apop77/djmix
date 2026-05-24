@@ -1,1 +1,8 @@
 # djmix
+
+A Python tool that builds DJ-friendly playlists bucketed by tempo (BPM) on Spotify and Tidal.
+
+## Data Attribution
+
+Tempo and BPM data provided by [GetSongBPM.com](https://getsongbpm.com).
+
